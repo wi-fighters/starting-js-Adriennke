@@ -55,3 +55,10 @@ console.log(calculation);
 var a = 8573254
 var b = 536
 console.log(a*b);
+
+let welcome = "Hello";
+let name1 = "Fran";
+console.log(`${welcome}, ${name1}'s friend
+I want to say "Hi"!`)
+
+ 
