@@ -30,28 +30,30 @@ let tip3 = 35.92 * 0.2
 let totalBill = (22.35 + tip1)
 let totalBill2 = (26.67 + tip2)
 let totalBill3 = (35.92 + tip3)
-console.log(`${totalBill} ${totalBill2} ${totalBill3}`);
+console.log(`Bill one : ${totalBill} 
+Bill two : ${totalBill2} 
+Bill three : ${totalBill3}`);
 
 let perimeterSquare = 4.75*4
-console.log(`${perimeterSquare}`);
+console.log(`Perimeter of Square : ${perimeterSquare} cm`);
 
 
 let perimeterTriangle = 5 + 6 + 7
-console.log(`${perimeterTriangle}`);
+console.log(`Perimeter of the triangle is : ${perimeterTriangle} cm`);
 
 let areaSquare = 5*5
-console.log(`${areaSquare}`);
+console.log(`Area of Square : ${areaSquare} cm²`);
 
 let areaTriangle = (5 + 6 + 7)/2
 console.log(`${areaTriangle}`);
 
 let volumeOfCube = 9*9*9
-console.log(`${volumeOfCube}`);
+console.log(`Volume of cube : ${volumeOfCube} cm²`);
 
 let ticket = 6450 / 15
 console.log(`${ticket} people purchased a ticket.`);
 
 
 let yearlyIncome = 500 * 52
-console.log(`${yearlyIncome}`);
+console.log(`Sylvia´s yearly income is : ${yearlyIncome}`);
 
