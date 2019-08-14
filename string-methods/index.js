@@ -62,3 +62,16 @@ console.log(phrase.includes("Java"));
 //first and last
 
 console.log("D"+ hello.substring(1, 10)+"h");
+
+//concatenation
+
+const firstName = "Francisco"
+const age = 26
+const city = "Berlin"
+console.log(`My name is ${firstName}, I am ${age} years old, and I live in ${city}.`);
+
+
+//Capitalize
+
+const fox = "the quick brown fox";
+console.log(fox.substring(0, 1).toUpperCase() + fox.substring(1));
