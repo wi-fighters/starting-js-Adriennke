@@ -26,9 +26,11 @@ console.log(Math.floor(-9.78));
 console.log(Math.floor(28.329));
 
 //Dice Roll
+//console.log(Math.random() + 3);
+//console.log(Math.ceil(1.74243611652123));
 
-console.log(Math.random()+1);
-console.log(Math.ceil(1.74243611652123));
+console.log(Math.floor(Math.random()*6+1))
+
 
 
 
