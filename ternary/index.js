@@ -1,11 +1,11 @@
-const legalAge = 18
-const personsAge = 16
+const legalAge = 18;
+const personsAge = 16;
 const canDrive = (personsAge>=legalAge) ? "Yes, you can drive! Hope you have a driver license." : "Nope, you´re too young!"
 console.log(canDrive);
 
 
-const speedLimit = 130
-const actualSpeed = 120
+const speedLimit = 130;
+const actualSpeed = 120;
 const speedCheck = (speedLimit<=actualSpeed) ? "You are going too fast! Slow down!" : "You are driving below the speed limit."
 console.log(speedCheck);
 
