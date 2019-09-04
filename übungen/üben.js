@@ -86,7 +86,6 @@ switch (val) {
 
 
     function abTest(a, b) {
-      // Only change code below this line
       if (a < 0 || b < 0) {
       return undefined;
       }
